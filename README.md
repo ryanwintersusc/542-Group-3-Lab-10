@@ -13,9 +13,15 @@ biomarkers are added or deleted in the future.
 Steps in the code:
 
 Create the dependent variable class
+
 Split the data into independent and dependent variables
+
 Create the Training and Test set from data
+
 Scale feature
+
 Fit Random Forest Classification the training set
+
 Predict Test Set Result
+
 Perform analysis and print results
