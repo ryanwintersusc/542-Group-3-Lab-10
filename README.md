@@ -25,3 +25,5 @@ Fit Random Forest Classification the training set
 Predict Test Set Result
 
 Perform analysis and print results
+
+We used some sample code provided by: https://www.codementor.io/agarrahul01/multiclass-classification-using-random-forest-on-scikit-learn-library-hkk4lwawu
